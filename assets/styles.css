@@ -1,5 +1,13 @@
-navbar-brand{
-	padding: 2px
+.navbar-brand{
+	padding: 2px;
+}
+body{
+	font-size: 13px;
+}
+h1{
+	font-weight: bold;
+	color: darkblue;
+	text-align: center;
 }
 .red{
 	background-color: red;
