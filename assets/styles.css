@@ -9,6 +9,12 @@ h1{
 	color: darkblue;
 	text-align: center;
 }
+.title{
+	padding-top: 0.5em;
+    color: #FF6600;
+    font-weight: bold;
+    font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-style: inherit;"
+}
 .red{
 	background-color: red;
 	height: 200px
