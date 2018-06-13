@@ -15,6 +15,9 @@ h1{
     font-weight: bold;
     font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-style: inherit;"
 }
+.etapa{
+	padding-left: 20px;
+}
 .red{
 	background-color: red;
 	height: 200px
