@@ -19,7 +19,7 @@ h1{
 	padding-left: 20px;
 }
 footer{
-	background-color: limegreen;
+	background-color: #32cd32e6;
 	padding: 10px;
 	font-size: 2.3vw
 }
@@ -82,3 +82,6 @@ footer{
     width: 100% !important;
     height: 100% !important;
 } 
+.thumbnail{
+  background-color: #FFFFFFAA
+}
